@@ -10,7 +10,8 @@
 *.map
 
 # ========== 编辑器 / IDE ==========
-.vscode/
+.vscode
+CLAUDE.md
 *.swp
 *.swo
 *~
